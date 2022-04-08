@@ -1,5 +1,5 @@
 package hu.bme.mit.spaceship;
-//hejjho
+//hejjhoho
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
 */
